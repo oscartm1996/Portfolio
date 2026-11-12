@@ -1,3 +1,7 @@
 # add the following to _config.yml file
 title: Oscar Alexander Tobar Montilla
 theme: jekyll-theme-minimal
+#logo: /assets/profile.png
+description: I am a Physics Engineer, Computational Physicist and M.Sc. Candidate from Colombia 🇨🇴. 
+#show_downloads: true 
+theme: jekyll-theme-minimal
